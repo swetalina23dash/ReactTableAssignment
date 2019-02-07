@@ -1,4 +1,4 @@
-# Plexxis Interview Exercise
+
 ## Requirements
 Create a simple but __impressive__ (looks good, works well, has intuitive design, etc.) CRUD application that can do the following:
 
